@@ -1,5 +1,9 @@
 # Optimal Coloring for Cell ID Barcodes (NeuroPAL)
 
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+
 This code was authored by Erdem Varol (Liam Paninski Lab) and Eviatar Yemini (Oliver Hobert Lab) at Columbia University for the NeuroPAL publication,
 "NeuroPAL: A Multicolor Atlas for Whole-Brain Neuronal Identification in C. elegans". The publication is available here:
 
@@ -47,6 +51,13 @@ Please contact the authors to discuss contributing to the work.
 * **Erdem Varol**
 * **Eviatar Yemini**
 
-## License
+## Licensing
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
